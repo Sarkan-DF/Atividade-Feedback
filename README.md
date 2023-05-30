@@ -20,7 +20,7 @@ Usaremos HTML, CSS, TypeScript e MUI.
 # Autores
 
 Igor Matos https://www.linkedin.com/in/igor-matos-22815b98/ 
-\nGabriela Leichtweis
+<b>Gabriela Leichtweis
 Diego Lins
 Guilherme Salazar da Silva
 
