@@ -1,9 +1,10 @@
 const routes = [
   { label: 'Principal', url: '/principal' },
-  { label: 'Igor Matos', url: '/inserir-recados' },
-  { label: 'Diego Lins', url: '/inserir-recados' },
-  { label: 'Gabriela Leichtweis', url: '/inserir-recados' },
-  { label: 'Guilherme Salazar', url: '/inserir-recados' }
+  { label: 'Andre Oliveira', url: '/andre' },
+  { label: 'Diego Lins', url: '/diego' },
+  { label: 'Gabriela Leichtweis', url: '/gabriela' },
+  { label: 'Guilherme Salazar', url: '/guilherme' },
+  { label: 'Igor Matos', url: '/igor' }
 ];
 
 export default routes;
