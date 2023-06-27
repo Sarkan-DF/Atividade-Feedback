@@ -10,6 +10,9 @@ export const Gabriela: React.FC = () => {
         <ResponsiveAppBar />
         <Grid item xs={12} paddingTop={'50px'}>
           <Container>
+            <Typography variant="h2" color={'white'} marginBottom={'20px'}>
+              Gabriela
+            </Typography>
             <Accordion>
               <AccordionSummary aria-controls="panel1a-content" id="panel1a-header">
                 <ExpandMoreIcon />
